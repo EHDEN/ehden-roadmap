@@ -1,7 +1,6 @@
+![](https://www.ehden.eu/wp-content/uploads/2019/03/EHDEN-1.png)
 
 # EHDEN Roadmap
-
-![](https://www.ehden.eu/wp-content/uploads/2019/03/EHDEN-1.png)
 
 ## Contributing to the roadmap
 ### Add a new project for consideration

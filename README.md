@@ -26,4 +26,10 @@ Cards in each column of on the board will sorted by the number of comments, the 
 
 ## EHDEN Tools
 
+- CdmInspection R package
+- CatalogueExport R package
+- EHDEN Service Desk
+
 ## OHDSI Tools
+
+- DataQualityDashboard (EHDEN+OHDSI)
